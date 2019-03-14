@@ -3,4 +3,4 @@ Jean's website
 
 
 
-Thanks the framework from html5up.net | @ajlkn
+Thank you for the framework from html5up.net | @ajlkn
