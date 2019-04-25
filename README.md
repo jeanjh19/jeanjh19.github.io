@@ -1,6 +1,4 @@
 # jeanjh19
-Jean's website
-
-
+Jean H.'s website
 
 Thank you for the framework from html5up.net | @ajlkn
